@@ -1,7 +1,5 @@
-<section id="profil">
-  <h2>Profil Fotoğrafım</h2>
-  <img src="profil.jpg" alt="Ömer Büyükkaya" width="250" style="border-radius:10px;">
-</section>
+<img src="images/profil.jpg" alt="Ömer Büyükkaya" width="250">
+
 
 <!DOCTYPE html>
 <html lang="tr">
